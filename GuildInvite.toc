@@ -1,0 +1,6 @@
+## Interface: 20400
+## Version: 1.0.0
+## Title: GuildInvite
+## SavedVariables: GuildInvite_database
+
+GuildInvite.lua
